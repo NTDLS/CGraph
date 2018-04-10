@@ -15,7 +15,7 @@
 #include <CommCtrl.H>
 
 #include "CGraph.H"
-#include "../../@Libraries/NSWFL/NSWFL.H"
+#include "../NSWFL/NSWFL.H"
 
 using namespace NSWFL::Conversion;
 
